@@ -117,4 +117,5 @@ This repository Contains the tutorials for the workshop which, I, Dilshad Raza, 
 
 ### **Participant:**
 Dilshad Raza\
+E-mail: dilshad.geologist@gmail.com\
 ![Profile](Resources/imgs/profile_moodle.png)
