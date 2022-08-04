@@ -22,4 +22,5 @@ Seismic recording and seismograms. Applications will include time series analysi
 - [Research paper on using source time functions to rapidly estimate rupture directivity in California](\Res_files\rupture.directivity.CaliEQ.Ammon.GRL.93.pdf)
 - [Research paper on the 2007 Sumatra earthquake analyzed in SAC Tutorial 5](\Res_files\Sumatra2007EQ.Konca.Nature.08.pdf)
 - [**July 5, 2022 Webinar Recording - Passcode: 5TxZ?17T**](https://zoom.us/rec/share/5G5UElz870Pa-eioBzY0BQ_iniOYIB0Ldswj8vX38W3rarvFIF6pCyU_0d-E3RfM.5SbwRNh640Hq3ydB)
+- [**Webinar Slides - July 5, 2022**](Res_files/Module2_Webinar2.pptx)
 
