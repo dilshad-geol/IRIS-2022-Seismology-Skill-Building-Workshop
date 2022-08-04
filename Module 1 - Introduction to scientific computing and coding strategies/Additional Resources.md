@@ -18,5 +18,6 @@ Introduction to scientific computing and coding strategies. Applications will in
 - [View Seismic Waves Through Earth](http://ds.iris.edu/seismon/swaves/index.php)
 - [First publication introducing GMTFile](\Res_files\GMT.Intro.Eos.1991.pdf)
 - [Scientific American article on Deep Earthquakes](\Res_files\deep-earthquakes.Frohlich.SciAm.1989.pdf)
+- [**Webinar Slides - June 20, 2022**](\Res_files\Module1_Webinar2.pptx)
 
 
