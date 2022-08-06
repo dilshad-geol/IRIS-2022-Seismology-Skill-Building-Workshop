@@ -1,0 +1,8 @@
+# GMT 6 Session common arguments shelf
+BEGIN GMT 6.3.0
+B	100:Depth (km):/2:Size (Magnitude):SW
+J	X
+JX	X6/5
+R	0/700/3/9
+@L	1
+END

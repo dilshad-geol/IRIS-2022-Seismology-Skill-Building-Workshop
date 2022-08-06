@@ -1,0 +1,3 @@
+Since there is likely a change in the mechanisms by which earthquakes are produced at deeper depths, the resulting magnitudes appear to be affected.
+The plots suggest that earthquake producing faults are smaller at greater depths as there are less earthquakes at greater depths. 
+The Earth appears to show a tendency to produce larger magnitude earthquakes at shallower depths.

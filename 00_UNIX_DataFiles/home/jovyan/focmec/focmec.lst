@@ -1,0 +1,110 @@
+  Tue Aug  2 18:08:44 2022 for program Focmec
+ title
+ Input from a file focmec.inp
+ TREE 002.777 052.800U
+
+ Statn  Azimuth    TOA   Key  Log10 Ratio  NumPol  DenTOA  Comment
+  WVOR    38.4     54.0   U                                
+   BMN    84.1     54.0   U                                
+   PAH   109.9     76.6   D                                
+   KVN   115.6     52.8   D                                
+   BEK   120.9     86.6   D                                
+  NV31   127.0     54.0   D                                
+   RYN   127.7     52.8   D                                
+   VCN   129.0     76.6   D                                
+   YER   130.0     49.2   D                                
+   PNT   133.9     75.4   D                                
+  SRVL   137.6     83.2   D                                
+   WAK   142.8     49.2   D                                
+   RUB   148.2     75.6   D                                
+   CMB   166.1     49.2   D                                
+   CMB   166.1     49.2   D                                
+   CLE   180.6     48.6   D                                
+   MOD   181.1     54.0   D                                
+   ELK   187.5     49.2   D                                
+   PLA   187.6     52.4   D                                
+   WHR   187.7     50.4   D                                
+   MCD   188.4     50.4   D                                
+   EMR   189.3     49.2   D                                
+   CEC   190.7     50.4   D                                
+   BYR   191.0     52.4   D                                
+   SRT   191.6     50.4   D                                
+   SIA   194.0     49.2   D                                
+   DIX   198.8     49.0   U                                
+  MCCM   215.3     52.8   U                                
+  MCCM   215.3     52.8   U                                
+  O02D   269.9     75.6   U                                
+  O02D   269.9     75.6   U                                
+  S01B   273.8     54.0   U                                
+  S06B   275.0     54.0   U                                
+  S05B   275.0     54.0   U                                
+  S09B   276.1     54.0   U                                
+  O03E   280.5     84.6   U                                
+  O03E   280.5     84.6   U                                
+   WDC   289.4     84.0   U                                
+   WDC   289.4     84.0   U                                
+  N02D   302.5     76.8   D                                
+  N02D   302.5     76.8   D                                
+  M02C   311.9     47.4   D                                
+  M02C   311.9     47.4   D                                
+  L02E   316.5     54.0   D                                
+  L02E   316.5     54.0   D                                
+  HUMO   330.0     54.0   D                                
+  HUMO   330.0     54.0   D                                
+  L04D   335.5     50.4   D                                
+  L04D   335.5     50.4   D                                
+  M04C   339.9     60.2   D                                
+  M04C   339.9     60.2   D                                
+  K04D   348.1     52.8   D                                
+  K04D   348.1     52.8   D                                
+ Polarities/Errors:  P 053/00  SV 000/00  SH 000/00
+ There are no amplitude ratio data
+ The minimum, increment and maximum B axis trend:     0.00    5.00  355.00
+ The limits for the B axis plunge:     0.00    5.00   90.00
+ The limits for Angle:     0.00    5.00   85.00
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+     Dip,Strike,Rake     86.60    19.39    19.72
+     Dip,Strike,Rake     70.32   288.17   176.38   Auxiliary Plane
+     Lower Hem. Trend, Plunge of A,N    198.17    19.68   289.39     3.40
+     Lower Hem. Trend, Plunge of P,T    152.14    11.31   245.49    16.27
+     B trend, B plunge, Angle:   28.80  70.00  80.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+     Dip,Strike,Rake     83.28    24.32    18.88
+     Dip,Strike,Rake     71.25   292.03   172.90   Auxiliary Plane
+     Lower Hem. Trend, Plunge of A,N    202.03    18.75   294.32     6.72
+     Lower Hem. Trend, Plunge of P,T    156.86     8.31   249.59    18.06
+     B trend, B plunge, Angle:   43.20  70.00  70.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+     Dip,Strike,Rake     78.69    24.26    16.60
+     Dip,Strike,Rake     73.73   290.91   168.21   Auxiliary Plane
+     Lower Hem. Trend, Plunge of A,N    200.91    16.27   294.26    11.31
+     Lower Hem. Trend, Plunge of P,T    157.01     3.40   248.23    19.68
+     B trend, B plunge, Angle:   57.60  70.00  55.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+     Dip,Strike,Rake     81.46    22.77    12.38
+     Dip,Strike,Rake     77.76   290.90   171.26   Auxiliary Plane
+     Lower Hem. Trend, Plunge of A,N    200.90    12.24   292.77     8.54
+     Lower Hem. Trend, Plunge of P,T    156.51     2.58   247.19    14.77
+     B trend, B plunge, Angle:   56.84  75.00  55.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+     Dip,Strike,Rake     84.28    20.80     8.22
+     Dip,Strike,Rake     81.82   289.97   174.22   Auxiliary Plane
+     Lower Hem. Trend, Plunge of A,N    199.97     8.18   290.80     5.72
+     Lower Hem. Trend, Plunge of P,T    155.24     1.73   245.54     9.85
+     B trend, B plunge, Angle:   55.38  80.00  55.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+     Dip,Strike,Rake     86.79    20.11     3.83
+     Dip,Strike,Rake     86.17   289.89   176.78   Auxiliary Plane
+     Lower Hem. Trend, Plunge of A,N    199.89     3.83   290.11     3.21
+     Lower Hem. Trend, Plunge of P,T    154.98     0.44   245.02     4.98
+     B trend, B plunge, Angle:   60.00  85.00  50.00
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+ There are   6 acceptable solutions

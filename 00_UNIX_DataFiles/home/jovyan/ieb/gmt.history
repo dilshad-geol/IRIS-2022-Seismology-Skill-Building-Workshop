@@ -1,0 +1,8 @@
+# GMT 6 Session common arguments shelf
+BEGIN GMT 6.3.0
+B	a1f0.2:Magnitude:/a1f3:Frequency of Earthquakes:
+J	X
+JX	X6/6l
+R	3/8/.001/100
+@L	1
+END

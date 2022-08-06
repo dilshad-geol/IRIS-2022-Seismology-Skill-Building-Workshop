@@ -1,0 +1,69 @@
+  Tue Aug  2 18:08:44 2022 for program Focplt
+ Input from file focmec.inp
+     T
+ Statn  Azimuth  TOAngl  Key  Log10 Ratio     Pol  TOAng2  Comment
+WVOR   38.39   54.00C
+ BMN   84.11   54.00C
+ PAH  109.94   76.60D
+ KVN  115.61   52.80D
+ BEK  120.92   86.60D
+NV31  127.02   54.00D
+ RYN  127.66   52.80D
+ VCN  129.03   76.60D
+ YER  130.02   49.20D
+ PNT  133.86   75.40D
+SRVL  137.63   83.20D
+ WAK  142.76   49.20D
+ RUB  148.17   75.60D
+ CMB  166.12   49.20D
+ CMB  166.12   49.20D
+ CLE  180.59   48.60D
+ MOD  181.10   54.00D
+ ELK  187.45   49.20D
+ PLA  187.62   52.40D
+ WHR  187.69   50.40D
+ MCD  188.42   50.40D
+ EMR  189.26   49.20D
+ CEC  190.69   50.40D
+ BYR  191.00   52.40D
+ SRT  191.58   50.40D
+ SIA  194.04   49.20D
+ DIX  198.77   49.00C
+MCCM  215.26   52.80C
+MCCM  215.26   52.80C
+O02D  269.89   75.60C
+O02D  269.89   75.60C
+S01B  273.84   54.00C
+S06B  274.99   54.00C
+S05B  275.02   54.00C
+S09B  276.12   54.00C
+O03E  280.47   84.60C
+O03E  280.47   84.60C
+ WDC  289.38   84.00C
+ WDC  289.38   84.00C
+N02D  302.48   76.80D
+N02D  302.48   76.80D
+M02C  311.93   47.40D
+M02C  311.93   47.40D
+L02E  316.49   54.00D
+L02E  316.49   54.00D
+HUMO  330.02   54.00D
+HUMO  330.02   54.00D
+L04D  335.52   50.40D
+L04D  335.52   50.40D
+M04C  339.89   60.20D
+M04C  339.89   60.20D
+K04D  348.11   52.80D
+K04D  348.11   52.80D
+ Plotting P nodal planes
+ 
+  Solutions input from file focmec.out
+   Tue Aug  2 18:08:44 2022 for program Focmec
+  title
+  Input from a file focmec.inp
+  TREE 002.777 052.800U
+  Polarities/Errors:  P 053/00  SV 000/00  SH 000/00
+  There are no amplitude ratio data
+  The minimum, increment and maximum B axis trend:     0.00    5.00  355.00
+  The limits for the B axis plunge:     0.00    5.00   90.00
+  The limits for Angle:     0.00    5.00   85.00

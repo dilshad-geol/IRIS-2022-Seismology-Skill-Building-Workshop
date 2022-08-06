@@ -1,0 +1,16 @@
+  Tue Aug  2 18:08:44 2022 for program Focmec
+ title
+ Input from a file focmec.inp
+ TREE 002.777 052.800U
+ Polarities/Errors:  P 053/00  SV 000/00  SH 000/00
+ There are no amplitude ratio data
+ The minimum, increment and maximum B axis trend:     0.00    5.00  355.00
+ The limits for the B axis plunge:     0.00    5.00   90.00
+ The limits for Angle:     0.00    5.00   85.00
+    Dip   Strike   Rake    Pol: P     SV    SH
+   86.60   19.39   19.72       0.00  0.00  0.00
+   83.28   24.32   18.88       0.00  0.00  0.00
+   78.69   24.26   16.60       0.00  0.00  0.00
+   81.46   22.77   12.38       0.00  0.00  0.00
+   84.28   20.80    8.22       0.00  0.00  0.00
+   86.79   20.11    3.83       0.00  0.00  0.00
