@@ -4,7 +4,7 @@ Module 4: Event and waveform databases. Applications will include an introductio
 
 ## **Optional Supplemental Resources:**
 - [**July 25, 2022 Webinar Recording - Passcode: qC17&fg7**](https://zoom.us/rec/share/zDg9xCML3hYK2Ra1hK9aTmvpGM7v1EHEnWKEo9ECxx3wL9XWcbGgXx6h_iqRbHwc.DDOU2VPcLeDOm_6g)
-- [**Webinar Slides - July 25, 2022**](\Res_files\Module3_Webinar1.pptx)
+- [**Webinar Slides - July 25, 2022**](\Res_files\Module4_Week1.pptx)
 - [A set of introductory videos on seismic refraction](https://www.youtube.com/playlist?list=PLz-3GU4P-dQEQcPQFFwIThdKK0p6l8jVJ)
 - [An introductory video on the Moho and its discovery](https://www.youtube.com/watch?v=omZj4GboJ00)
 - [An introductory video on fault types and orientations](https://www.youtube.com/watch?v=qlk7IfYMufs)
