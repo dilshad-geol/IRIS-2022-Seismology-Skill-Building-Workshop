@@ -17,4 +17,14 @@ Use existing and create new Jupyter Notebooks with Python to explain and share c
  [A journal article on iceberg quakes in Antarctica](Res_files/icequakes.Antarctica.Martin.JGR.10.pdf)
  [A GitHub page with a collection of general interest Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
- ## Week 2 - Jupyter Notebooks
+## Week 2 - Jupyter Notebooks
+- [**August 29, 2022 Webinar Recording - Passcode: Ge7=ju5@**](https://zoom.us/rec/share/uwx-iSShy22sMzWwqFedSba9mzq5EdTLnWOaQmP2rzZDCsZHccb3-D37Ydc_J_qo.VJsa3Q-pBQk2mhSj)
+- [**Webinar Slides - August 29, 2022**](Res_files/Module6_Week2.pptx)
+
+## **Optional Supplemental Learning Resources**
+- [A short article introducing GitHub and software version control](https://kinsta.com/knowledgebase/what-is-github/)
+- [The section on Earthquake Magnitude from Shearer's textbook](Res_files/Earthquake.Magnitude.Shearer.2009.pdf)
+- [The collaborative Science article on reduced seismic noise during COVID19](Res_files/COVID19.noise.Lecocq.Science.20.pdf)
+- [A chapter on removing the response from a book on seismometer instrumentation](Res_files/RemoveResponse.InstrumentationInEarthquakeSeis.2016.pdf)
+- [A chapter on seismic noise from a book on seismometer instrumentation](Res_files/Noise.InstrumentationInEarthquakeSeis.2016.pdf)
+- [A journal article on types of noise during mining](Res_files/noise.mining.Olivier.Geophy.15.pdf)
